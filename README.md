@@ -21,7 +21,7 @@
 (以上四日取兩日)
 
 ## 線上互動slido連結
- - [第一周](https://app.sli.do/event/nj8tSaXn4XwUtjSqcDuE6S/live/questions)
+ - [第一周(2024/03/15)](https://app.sli.do/event/nj8tSaXn4XwUtjSqcDuE6S/live/questions)
 
 ## 教材內容
 - `Codes`: 課程範例程式
