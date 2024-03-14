@@ -20,6 +20,9 @@
 - 2024/05/17
 (以上四日取兩日)
 
+## 線上互動slido連結
+ - [第一周](https://app.sli.do/event/nj8tSaXn4XwUtjSqcDuE6S/live/questions)
+
 ## 教材內容
 - `Codes`: 課程範例程式
 - `Refrences`: 課程參考資料
