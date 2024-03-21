@@ -2,8 +2,10 @@
 
 ## 注意事項
 1. 課程前準備好Google帳號，並且能夠在Colab上執行課程範例程式
-2. 如果在課程中遇到問題，請在Slido上提問
-3. 如果下課後有任何問題，請在本課程的Github上Issue提問，老師會盡快回答
+2. huggingface的帳號及API key先行申請好
+3. wandb的帳號及API key先行申請好
+4. 如果在課程中遇到問題，請在Slido上提問
+5. 如果下課後有任何問題，請在本課程的Github上Issue提問，老師會盡快回答
 
 ## 課程簡介
 課程內容包含大型語言模型的基本概念、訓練技術、應用與評估等主題。
@@ -27,7 +29,7 @@
 
 ## 線上互動slido連結
  - [第一周(2024/03/15)](https://app.sli.do/event/nj8tSaXn4XwUtjSqcDuE6S/live/questions)
-
+ - [第二周(2024/03/22)](https://app.sli.do/event/22WLAJjCdd2sLsrTym5DT9/live/questions)
 ## 教材內容
 - `Codes`: 課程範例程式
 - `Refrences`: 課程參考資料
